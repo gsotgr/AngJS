@@ -16,3 +16,7 @@ ul {
 li[ui-sref]:hover {
   font-weight: bold;;
 }
+
+.item-name {
+  font-weight: bold;
+}
